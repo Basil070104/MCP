@@ -5,9 +5,11 @@ import { z } from "zod";
 // Define our MCP agent with tools
 export class MyMCP extends McpAgent {
 	server = new McpServer({
-		name: "Authless Calculator",
+		name: "WordWare MCP",
 		version: "1.0.0",
 	});
+
+	API_URL = "http://127.0.0.1:8000/"
 
 	async init() {
 		// Simple addition tool
@@ -55,6 +57,38 @@ export class MyMCP extends McpAgent {
 				return { content: [{ type: "text", text: String(result) }] };
 			}
 		);
+
+		this.server.tool(
+			"research_founder",
+			{
+				topic: z.string().describe("The industry or technology area to find founders in"),
+				limit: z.number().optional().default(5).describe("Maximum number of founders to return")
+			},
+			async ({topic, limit}) => {
+				try {
+					// Call your API endpoint to get founders data
+					const response = await fetch(`${this.API_URL}founders/search`, {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json'
+						},
+						body: JSON.stringify({ topic, limit })
+					});
+				
+				return {
+					content: [{ type: "text", text: "done" }]
+				};
+				} catch (error) {
+					return {
+						content: [{ 
+							type: "text", 
+							text: `Error finding founders. Please check the API connection.` 
+						}]
+					}
+				}
+			}
+		)
+
 	}
 }
 
