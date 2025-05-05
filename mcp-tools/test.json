@@ -1,0 +1,9509 @@
+[
+  {
+    "type": "chunk",
+    "value": {
+      "type": "prompt",
+      "state": "start",
+      "path": "",
+      "id": "ROOT"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "prompt",
+      "state": "start",
+      "path": "Person Research.Person Research",
+      "id": "6479f379-cfb4-4b61-ad3b-37410907106a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "code",
+      "id": "9daff782-e45d-4e7e-9eef-d8d19bcfa381",
+      "label": "new_code_block (new)",
+      "logs": [],
+      "output": "Robert Chandler\n from Wordware\n",
+      "error": false
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "tool",
+      "id": "21cf6bd2-77a9-420e-a666-14b12161fb3c",
+      "label": "Web search with Exa",
+      "output": "## [Robert Chandler - Wordware (YC S24)](https://linkedin.com/in/robertjhchandler)\n#### Published at 2024-12-29T00:00:00.000Z\n\n#### From: [source](https://linkedin.com/in/robertjhchandler)\n\n#### Excerpts: \n\nI\u2019m driven by tackling challenging problems and learning at the edge of my comfort zone. This could be programming an internet of things gesture interface with a Microsoft Kinect, building software to make self-driving cars see or designing and building the largest cardboard boat ever to set sail on the River Cam. Today I'm on a journey to build the future of software with natural language.\n\nThis could be programming an internet of things gesture interface with a Microsoft Kinect, building software to make self-driving cars see or designing and building the largest cardboard boat ever to set sail on the River Cam. Today I'm on a journey to build the future of software with natural language. Outside of work I keep mentally and physically fit by training for triathlons.\n\nDescription: Enigma was Hurstpierpoint College's Young Enterprise team for years 2012 to 2013. As the deputy managing director I aided the team in the development of our products and the creation of the team's website. Enigma went on to win a number of awards and the overall prize at the district contest.\n\n\n## [Wordware | Y Combinator's Work at a ...](https://www.workatastartup.com/companies/wordware)\n#### Published at 2025-01-25T17:44:48.000Z\n\n#### From: [source](https://www.workatastartup.com/companies/wordware)\n\n#### Excerpts: \n\n## Check out other YC startups on Work at a Startup below. [Sign up to see more \u203a](https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication&defaults%5BsignUpActive%5D=true)\n\n\n## [Robert Chandler, Founder & CTO Wordware, on building first ...](https://www.youtube.com/watch?v=eLDYieX3Mfk)\n#### Published at 2024-11-22T00:00:00.000Z\n\n#### From: [source](https://www.youtube.com/watch?v=eLDYieX3Mfk)\n\n#### Excerpts: \n\n[About](https://www.youtube.com/about/) [Press](https://www.youtube.com/about/press/) [Copyright](https://www.youtube.com/about/copyright/) [Contact us](https://www.youtube.com/t/contact_us/) [Creators](https://www.youtube.com/creators/) [Advertise](https://www.youtube.com/ads/) [Developers](https://developers.google.com/youtube) [Terms](https://www.youtube.com/t/terms) [Privacy](https://www.youtube.com/t/privacy) [Policy & Safety](https://www.youtube.com/about/policies/) [How YouTube works](https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen) [Test new features](https://www.youtube.com/new)\n\n\n## [Robert Chandler's Post](https://www.linkedin.com/posts/robertjhchandler_last-week-i-spent-3-hours-in-a-cold-bathtub-activity-7265488507647795200-lVs0)\n#### Published at 2024-11-21T22:17:26.000Z\n\n#### From: [source](https://www.linkedin.com/posts/robertjhchandler_last-week-i-spent-3-hours-in-a-cold-bathtub-activity-7265488507647795200-lVs0)\n\n#### Excerpts: \n\nThat changes today. We've created something entirely new. Now English is the programming language accessible for everyone.\n\nTechies from Silicon Valley like to use confusing terms, make you think only they can do what they do. Or even better, for you to leave them the \\*\\*\\*\\* alone. So here is Margot Robbie in a bubble bath to explain.\n\nThat's it. That's an AI agent. 4 simple things.\n\n\n## [E45: Breaking Down the Agent Economy with Robert ...](https://www.youtube.com/watch?v=ohVjeb_FW00)\n#### Published at 2025-01-08T00:00:00.000Z\n\n#### From: [source](https://www.youtube.com/watch?v=ohVjeb_FW00)\n\n#### Excerpts: \n\nPodcasts are an exponentially growing source of unique information. Make use of it! Check out Overlap 2.0 on the App Store today.\n\nImagine having a smart assistant who reads through every podcast transcript, finds the best parts or parts most relevant to your search, and strings them together to form a new curated stream of content - that is what Overlap does. Podcasts are an exponentially growing source of unique information. Make use of it!\n\nEnding questions - 33:55\\n\\nAs always, feel free to contact us at partnerpathpodcast@gmail.com. We would love to hear ideas for content, guests, and overall feedback.\\n\\nThis episode is brought to you by Grata, the world's leading deal sourcing platform. Our AI-powered search, investment-grade data, and intuitive workflows give you the edge needed to find and win deals in your industry.\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "generation",
+      "state": "start",
+      "id": "3100475f-4cf0-4d58-bbef-2ddb354b06fc",
+      "label": "researchSonar",
+      "isStructured": false
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "##"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Robert Chandler"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " - Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "### Role"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and Background"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "\nRobert"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Chandler is"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Founder and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Chief Technology"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Officer ("
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "CTO"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ")** of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Wordware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ", a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " startup that"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " aims to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " make artificial"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " intelligence development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " as accessible"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " as writing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " in a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " word processor"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ". He"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " is known"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for his"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " innovative approach"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to software"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " development,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " particularly in"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " natural language"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " processing."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Chandler's"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " background includes"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " projects such"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " as programming"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " gesture interfaces"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and software"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for self"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-driving cars"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n\n###"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Notable"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " News\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "- **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Funding"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Announcement**:"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Wordware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " raised a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " significant $"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "30 million"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " seed round"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ", one"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " largest in"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Y Com"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "binator"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "'s history"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ", led"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " by Spark"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Capital and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " followed by"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Felic"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "is and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Y Com"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "binator"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ". This"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " funding is"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " aimed at"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " furthering"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the company"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "'s mission"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to simplify"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "[2].\n-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **In"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "novative"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Technology**:"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Chandler has"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " been involved"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " in developing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the first"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-ever prompt"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-first programming"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " language,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " which represents"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a significant"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " step in"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " making AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " more accessible"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " broader audience"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "[2].\n\n###"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Personal and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Professional Inter"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ests\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "- **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Professional Drive"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**: Chandler"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " is driven"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " by tackling"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " challenging problems"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and learning"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " at the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " edge of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " his comfort"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " zone."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " He enjoys"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " projects that"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " push the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " boundaries of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " technology and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " innovation.\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "- **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Personal Inter"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ests**:"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Outside of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " work,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Chandler keeps"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " mentally and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " physically fit"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " by training"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for tri"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "athl"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ons.\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "- **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Early Achie"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "vements**:"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " As the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " deputy managing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " director of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Enigma"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ", Hur"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "stpier"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "point College"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "'s Young"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Enterprise team"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ", Chandler"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " aided in"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " developing products"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and creating"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the team"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "'s website"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ", leading"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to several"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " awards.\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "### Relevant"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for Venture"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Capital Partners"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "\nFor"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " venture capital"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " partners,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Robert Chandler"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "'s leadership"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " at Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " combined with"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " his innovative"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " approach to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " his team"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "'s significant"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " funding success"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ", makes"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Wordware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " an attractive"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " investment opportunity"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ". The"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " company's"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " mission to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " democratize"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " aligns"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " with current"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " market trends"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and could"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " lead to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " substantial growth"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " potential."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "generation",
+      "state": "done",
+      "id": "3100475f-4cf0-4d58-bbef-2ddb354b06fc",
+      "label": "researchSonar",
+      "isStructured": false
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "generation",
+      "state": "start",
+      "id": "5c7ec5d2-a563-419f-9f57-96978f204c51",
+      "label": "finalresearch",
+      "isStructured": false
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "###"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Summary"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Research"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " on"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Robert"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Chandler"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " -"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Professional"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Role"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Achie"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "vements"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Robert"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Chandler"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " is"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Founder"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Chief"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Technology"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Officer"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " ("
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "CT"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "O"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ")"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Y"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Com"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "bin"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ator"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-backed"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " startup"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " focused"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " on"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " revolution"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "izing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " artificial"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " intelligence"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " through"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " natural"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " language"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " processing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Chandler"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "'s"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " innovative"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " contributions"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " include"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " developing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " gesture"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " interface"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Internet"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Things"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " using"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Microsoft"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Kinect"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " software"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " advancements"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " autonomous"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " vehicles"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " His"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " latest"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " work"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " involves"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " creating"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " prompt"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-first"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " programming"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " language"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " designed"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " make"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " accessible"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " wider"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " audience"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Under"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " his"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " leadership"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " secured"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " remarkable"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " $"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "30"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " million"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " in"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " seed"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " funding"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " from"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " prominent"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " investors"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " like"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Spark"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Capital"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Fel"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ic"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "is"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Y"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Com"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "bin"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ator"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Personal"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Background"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Inter"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ests"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Ch"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "andler"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "'s"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " drive"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " stems"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " from"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " embracing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " complex"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " challenges"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " expanding"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " his"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " skills"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " at"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " edge"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " his"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " comfort"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " zone"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " His"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " personal"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " endeavors"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " include"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " participating"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " in"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " tri"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ath"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "l"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ons"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " maintain"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " his"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " physical"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " mental"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " fitness"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Earlier"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " in"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " his"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " career"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " as"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " deputy"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " managing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " director"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " En"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "igma"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " at"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Hur"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "stp"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ier"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "point"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " College"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " he"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " played"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " pivotal"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " role"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " in"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " product"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " digital"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " initiatives"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " earning"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " multiple"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " awards"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " team"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Vent"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ure"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Capital"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Re"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "levance"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Robert"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Chandler"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "'s"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " track"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " record"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " technological"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " innovation"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " combined"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " with"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "'s"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " substantial"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " funding"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " strategic"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " vision"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " democrat"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "izing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " technology"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " positions"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " company"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " as"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " compelling"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " opportunity"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " venture"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " capital"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " investment"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Chandler"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "'s"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " commitment"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " pushing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " technological"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " boundaries"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " fostering"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " accessible"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " solutions"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " align"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "s"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " well"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " with"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " current"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " investment"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " trends"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " market"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " needs"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " presenting"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " significant"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " growth"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " potential"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "This"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " summary"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " encaps"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ulates"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Chandler"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "'s"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " professional"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " achievements"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " personal"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " qualities"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " emphasizing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " his"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " role"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " in"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " advancing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " technology"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " his"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " potential"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " impact"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " on"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " venture"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " capital"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " landscape"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "generation",
+      "state": "done",
+      "id": "5c7ec5d2-a563-419f-9f57-96978f204c51",
+      "label": "finalresearch",
+      "isStructured": false
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "prompt",
+      "path": "Person Research.Person Research",
+      "state": "complete",
+      "output": {
+        "9daff782-e45d-4e7e-9eef-d8d19bcfa381": {
+          "code": "return \"Robert Chandler\\n\" + \" from \" + \"Wordware\\n\"",
+          "nodeType": "codeExecutor",
+          "output": "Robert Chandler\n from Wordware\n",
+          "logs": "",
+          "error": "false"
+        },
+        "21cf6bd2-77a9-420e-a666-14b12161fb3c": {
+          "output": "## [Robert Chandler - Wordware (YC S24)](https://linkedin.com/in/robertjhchandler)\n#### Published at 2024-12-29T00:00:00.000Z\n\n#### From: [source](https://linkedin.com/in/robertjhchandler)\n\n#### Excerpts: \n\nI\u2019m driven by tackling challenging problems and learning at the edge of my comfort zone. This could be programming an internet of things gesture interface with a Microsoft Kinect, building software to make self-driving cars see or designing and building the largest cardboard boat ever to set sail on the River Cam. Today I'm on a journey to build the future of software with natural language.\n\nThis could be programming an internet of things gesture interface with a Microsoft Kinect, building software to make self-driving cars see or designing and building the largest cardboard boat ever to set sail on the River Cam. Today I'm on a journey to build the future of software with natural language. Outside of work I keep mentally and physically fit by training for triathlons.\n\nDescription: Enigma was Hurstpierpoint College's Young Enterprise team for years 2012 to 2013. As the deputy managing director I aided the team in the development of our products and the creation of the team's website. Enigma went on to win a number of awards and the overall prize at the district contest.\n\n\n## [Wordware | Y Combinator's Work at a ...](https://www.workatastartup.com/companies/wordware)\n#### Published at 2025-01-25T17:44:48.000Z\n\n#### From: [source](https://www.workatastartup.com/companies/wordware)\n\n#### Excerpts: \n\n## Check out other YC startups on Work at a Startup below. [Sign up to see more \u203a](https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication&defaults%5BsignUpActive%5D=true)\n\n\n## [Robert Chandler, Founder & CTO Wordware, on building first ...](https://www.youtube.com/watch?v=eLDYieX3Mfk)\n#### Published at 2024-11-22T00:00:00.000Z\n\n#### From: [source](https://www.youtube.com/watch?v=eLDYieX3Mfk)\n\n#### Excerpts: \n\n[About](https://www.youtube.com/about/) [Press](https://www.youtube.com/about/press/) [Copyright](https://www.youtube.com/about/copyright/) [Contact us](https://www.youtube.com/t/contact_us/) [Creators](https://www.youtube.com/creators/) [Advertise](https://www.youtube.com/ads/) [Developers](https://developers.google.com/youtube) [Terms](https://www.youtube.com/t/terms) [Privacy](https://www.youtube.com/t/privacy) [Policy & Safety](https://www.youtube.com/about/policies/) [How YouTube works](https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen) [Test new features](https://www.youtube.com/new)\n\n\n## [Robert Chandler's Post](https://www.linkedin.com/posts/robertjhchandler_last-week-i-spent-3-hours-in-a-cold-bathtub-activity-7265488507647795200-lVs0)\n#### Published at 2024-11-21T22:17:26.000Z\n\n#### From: [source](https://www.linkedin.com/posts/robertjhchandler_last-week-i-spent-3-hours-in-a-cold-bathtub-activity-7265488507647795200-lVs0)\n\n#### Excerpts: \n\nThat changes today. We've created something entirely new. Now English is the programming language accessible for everyone.\n\nTechies from Silicon Valley like to use confusing terms, make you think only they can do what they do. Or even better, for you to leave them the \\*\\*\\*\\* alone. So here is Margot Robbie in a bubble bath to explain.\n\nThat's it. That's an AI agent. 4 simple things.\n\n\n## [E45: Breaking Down the Agent Economy with Robert ...](https://www.youtube.com/watch?v=ohVjeb_FW00)\n#### Published at 2025-01-08T00:00:00.000Z\n\n#### From: [source](https://www.youtube.com/watch?v=ohVjeb_FW00)\n\n#### Excerpts: \n\nPodcasts are an exponentially growing source of unique information. Make use of it! Check out Overlap 2.0 on the App Store today.\n\nImagine having a smart assistant who reads through every podcast transcript, finds the best parts or parts most relevant to your search, and strings them together to form a new curated stream of content - that is what Overlap does. Podcasts are an exponentially growing source of unique information. Make use of it!\n\nEnding questions - 33:55\\n\\nAs always, feel free to contact us at partnerpathpodcast@gmail.com. We would love to hear ideas for content, guests, and overall feedback.\\n\\nThis episode is brought to you by Grata, the world's leading deal sourcing platform. Our AI-powered search, investment-grade data, and intuitive workflows give you the edge needed to find and win deals in your industry.\n"
+        },
+        "3100475f-4cf0-4d58-bbef-2ddb354b06fc": "## Robert Chandler - Wordware\n\n### Role and Background\nRobert Chandler is the **Founder and Chief Technology Officer (CTO)** of Wordware, a startup that aims to make artificial intelligence development as accessible as writing in a word processor. He is known for his innovative approach to software development, particularly in natural language processing. Chandler's background includes projects such as programming gesture interfaces and software for self-driving cars.\n\n### Notable News\n- **Funding Announcement**: Wordware raised a significant $30 million seed round, one of the largest in Y Combinator's history, led by Spark Capital and followed by Felicis and Y Combinator. This funding is aimed at furthering the company's mission to simplify AI development[2].\n- **Innovative Technology**: Chandler has been involved in developing the first-ever prompt-first programming language, which represents a significant step in making AI more accessible to a broader audience[2].\n\n### Personal and Professional Interests\n- **Professional Drive**: Chandler is driven by tackling challenging problems and learning at the edge of his comfort zone. He enjoys projects that push the boundaries of technology and innovation.\n- **Personal Interests**: Outside of work, Chandler keeps mentally and physically fit by training for triathlons.\n- **Early Achievements**: As the deputy managing director of Enigma, Hurstpierpoint College's Young Enterprise team, Chandler aided in developing products and creating the team's website, leading to several awards.\n\n### Relevant for Venture Capital Partners\nFor venture capital partners, Robert Chandler's leadership at Wordware, combined with his innovative approach to AI and his team's significant funding success, makes Wordware an attractive investment opportunity. The company's mission to democratize AI development aligns with current market trends and could lead to substantial growth potential.",
+        "5c7ec5d2-a563-419f-9f57-96978f204c51": "### Summary of Research on Robert Chandler - Wordware\n\n**Professional Role and Achievements:**\nRobert Chandler is the Founder and Chief Technology Officer (CTO) of Wordware, a Y Combinator-backed startup focused on revolutionizing artificial intelligence development through natural language processing. Chandler's innovative contributions include developing a gesture interface for the Internet of Things using Microsoft Kinect and software advancements for autonomous vehicles. His latest work involves creating a prompt-first programming language designed to make AI accessible to a wider audience. Under his leadership, Wordware secured a remarkable $30 million in seed funding from prominent investors like Spark Capital, Felicis, and Y Combinator.\n\n**Personal Background and Interests:**\nChandler's drive stems from embracing complex challenges and expanding his skills at the edge of his comfort zone. His personal endeavors include participating in triathlons to maintain his physical and mental fitness. Earlier in his career, as deputy managing director of Enigma at Hurstpierpoint College, he played a pivotal role in product development and digital initiatives, earning multiple awards for the team.\n\n**Venture Capital Relevance:**\nRobert Chandler's track record of technological innovation, combined with Wordware's substantial funding and strategic vision for democratizing AI technology, positions the company as a compelling opportunity for venture capital investment. Chandler's commitment to pushing technological boundaries and fostering accessible AI solutions aligns well with current investment trends and market needs, presenting significant growth potential.\n\nThis summary encapsulates Chandler's professional achievements and personal qualities, emphasizing his role in advancing AI technology and his potential impact on the venture capital landscape.",
+        "new_code_block (new)": {
+          "code": "return \"Robert Chandler\\n\" + \" from \" + \"Wordware\\n\"",
+          "nodeType": "codeExecutor",
+          "output": "Robert Chandler\n from Wordware\n",
+          "logs": "",
+          "error": "false"
+        },
+        "Web search with Exa": {
+          "output": "## [Robert Chandler - Wordware (YC S24)](https://linkedin.com/in/robertjhchandler)\n#### Published at 2024-12-29T00:00:00.000Z\n\n#### From: [source](https://linkedin.com/in/robertjhchandler)\n\n#### Excerpts: \n\nI\u2019m driven by tackling challenging problems and learning at the edge of my comfort zone. This could be programming an internet of things gesture interface with a Microsoft Kinect, building software to make self-driving cars see or designing and building the largest cardboard boat ever to set sail on the River Cam. Today I'm on a journey to build the future of software with natural language.\n\nThis could be programming an internet of things gesture interface with a Microsoft Kinect, building software to make self-driving cars see or designing and building the largest cardboard boat ever to set sail on the River Cam. Today I'm on a journey to build the future of software with natural language. Outside of work I keep mentally and physically fit by training for triathlons.\n\nDescription: Enigma was Hurstpierpoint College's Young Enterprise team for years 2012 to 2013. As the deputy managing director I aided the team in the development of our products and the creation of the team's website. Enigma went on to win a number of awards and the overall prize at the district contest.\n\n\n## [Wordware | Y Combinator's Work at a ...](https://www.workatastartup.com/companies/wordware)\n#### Published at 2025-01-25T17:44:48.000Z\n\n#### From: [source](https://www.workatastartup.com/companies/wordware)\n\n#### Excerpts: \n\n## Check out other YC startups on Work at a Startup below. [Sign up to see more \u203a](https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication&defaults%5BsignUpActive%5D=true)\n\n\n## [Robert Chandler, Founder & CTO Wordware, on building first ...](https://www.youtube.com/watch?v=eLDYieX3Mfk)\n#### Published at 2024-11-22T00:00:00.000Z\n\n#### From: [source](https://www.youtube.com/watch?v=eLDYieX3Mfk)\n\n#### Excerpts: \n\n[About](https://www.youtube.com/about/) [Press](https://www.youtube.com/about/press/) [Copyright](https://www.youtube.com/about/copyright/) [Contact us](https://www.youtube.com/t/contact_us/) [Creators](https://www.youtube.com/creators/) [Advertise](https://www.youtube.com/ads/) [Developers](https://developers.google.com/youtube) [Terms](https://www.youtube.com/t/terms) [Privacy](https://www.youtube.com/t/privacy) [Policy & Safety](https://www.youtube.com/about/policies/) [How YouTube works](https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen) [Test new features](https://www.youtube.com/new)\n\n\n## [Robert Chandler's Post](https://www.linkedin.com/posts/robertjhchandler_last-week-i-spent-3-hours-in-a-cold-bathtub-activity-7265488507647795200-lVs0)\n#### Published at 2024-11-21T22:17:26.000Z\n\n#### From: [source](https://www.linkedin.com/posts/robertjhchandler_last-week-i-spent-3-hours-in-a-cold-bathtub-activity-7265488507647795200-lVs0)\n\n#### Excerpts: \n\nThat changes today. We've created something entirely new. Now English is the programming language accessible for everyone.\n\nTechies from Silicon Valley like to use confusing terms, make you think only they can do what they do. Or even better, for you to leave them the \\*\\*\\*\\* alone. So here is Margot Robbie in a bubble bath to explain.\n\nThat's it. That's an AI agent. 4 simple things.\n\n\n## [E45: Breaking Down the Agent Economy with Robert ...](https://www.youtube.com/watch?v=ohVjeb_FW00)\n#### Published at 2025-01-08T00:00:00.000Z\n\n#### From: [source](https://www.youtube.com/watch?v=ohVjeb_FW00)\n\n#### Excerpts: \n\nPodcasts are an exponentially growing source of unique information. Make use of it! Check out Overlap 2.0 on the App Store today.\n\nImagine having a smart assistant who reads through every podcast transcript, finds the best parts or parts most relevant to your search, and strings them together to form a new curated stream of content - that is what Overlap does. Podcasts are an exponentially growing source of unique information. Make use of it!\n\nEnding questions - 33:55\\n\\nAs always, feel free to contact us at partnerpathpodcast@gmail.com. We would love to hear ideas for content, guests, and overall feedback.\\n\\nThis episode is brought to you by Grata, the world's leading deal sourcing platform. Our AI-powered search, investment-grade data, and intuitive workflows give you the edge needed to find and win deals in your industry.\n"
+        },
+        "researchSonar": "## Robert Chandler - Wordware\n\n### Role and Background\nRobert Chandler is the **Founder and Chief Technology Officer (CTO)** of Wordware, a startup that aims to make artificial intelligence development as accessible as writing in a word processor. He is known for his innovative approach to software development, particularly in natural language processing. Chandler's background includes projects such as programming gesture interfaces and software for self-driving cars.\n\n### Notable News\n- **Funding Announcement**: Wordware raised a significant $30 million seed round, one of the largest in Y Combinator's history, led by Spark Capital and followed by Felicis and Y Combinator. This funding is aimed at furthering the company's mission to simplify AI development[2].\n- **Innovative Technology**: Chandler has been involved in developing the first-ever prompt-first programming language, which represents a significant step in making AI more accessible to a broader audience[2].\n\n### Personal and Professional Interests\n- **Professional Drive**: Chandler is driven by tackling challenging problems and learning at the edge of his comfort zone. He enjoys projects that push the boundaries of technology and innovation.\n- **Personal Interests**: Outside of work, Chandler keeps mentally and physically fit by training for triathlons.\n- **Early Achievements**: As the deputy managing director of Enigma, Hurstpierpoint College's Young Enterprise team, Chandler aided in developing products and creating the team's website, leading to several awards.\n\n### Relevant for Venture Capital Partners\nFor venture capital partners, Robert Chandler's leadership at Wordware, combined with his innovative approach to AI and his team's significant funding success, makes Wordware an attractive investment opportunity. The company's mission to democratize AI development aligns with current market trends and could lead to substantial growth potential.",
+        "finalresearch": "### Summary of Research on Robert Chandler - Wordware\n\n**Professional Role and Achievements:**\nRobert Chandler is the Founder and Chief Technology Officer (CTO) of Wordware, a Y Combinator-backed startup focused on revolutionizing artificial intelligence development through natural language processing. Chandler's innovative contributions include developing a gesture interface for the Internet of Things using Microsoft Kinect and software advancements for autonomous vehicles. His latest work involves creating a prompt-first programming language designed to make AI accessible to a wider audience. Under his leadership, Wordware secured a remarkable $30 million in seed funding from prominent investors like Spark Capital, Felicis, and Y Combinator.\n\n**Personal Background and Interests:**\nChandler's drive stems from embracing complex challenges and expanding his skills at the edge of his comfort zone. His personal endeavors include participating in triathlons to maintain his physical and mental fitness. Earlier in his career, as deputy managing director of Enigma at Hurstpierpoint College, he played a pivotal role in product development and digital initiatives, earning multiple awards for the team.\n\n**Venture Capital Relevance:**\nRobert Chandler's track record of technological innovation, combined with Wordware's substantial funding and strategic vision for democratizing AI technology, positions the company as a compelling opportunity for venture capital investment. Chandler's commitment to pushing technological boundaries and fostering accessible AI solutions aligns well with current investment trends and market needs, presenting significant growth potential.\n\nThis summary encapsulates Chandler's professional achievements and personal qualities, emphasizing his role in advancing AI technology and his potential impact on the venture capital landscape."
+      },
+      "id": "6479f379-cfb4-4b61-ad3b-37410907106a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "prompt",
+      "state": "start",
+      "path": "Company Research.Company Research",
+      "id": "ba1f55e2-a220-48bf-a512-0bd70771c78a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "tool",
+      "id": "0476a0ff-80c8-4c4f-ae3c-71ab771e933d",
+      "label": "Web search with Exa",
+      "output": "## [Wordware | Bringing structure and joy to human -AI collaboration](https://www.wordware.ai/)\n#### Published at 2024-01-01T00:00:00.000Z\n\n#### From: [source](https://www.wordware.ai/)\n\n#### Excerpts: \n\nIf an API falters or rate-limits, we'll auto-switch to keep things running smoothly. ## All your AI, in one API. Build something wonderful using your expertise and leave the orchestration headaches to us.\n\nBreak into code if we don't have the right integration. Turing-complete by default. [Notion like editor.\n\n### Model switching\n\nModel APIs aren't always reliable. If an API falters or rate-limits, we'll auto-switch to keep things running smoothly. ## All your AI, in one API.\n\n\n## [Wordware](https://www.wordwareinc.com/)\n#### Published at 2019-01-01T00:00:00.000Z\n\n#### From: [source](https://www.wordwareinc.com/)\n\n#### Excerpts: \n\nMy staff and I use the product for a wide variety of daily needs and like how it is customized to fit the needs of our district. Wordware also provides fast, friendly customer service. Immediate help is available simply by picking up the phone or submitting a work ticket.\n\n \"Wordware is a user-friendly school foodservice software system! My staff and I use the product for a wide variety of daily needs and like how it is customized to fit the needs of our district. Wordware also provides fast, friendly customer service.\n\nWordware also provides fast, friendly customer service. Immediate help is available simply by picking up the phone or submitting a work ticket. \" \n\n\n## [wordware (YC S24)](https://www.linkedin.com/company/wordware)\n#### Published at 2024-12-21T00:00:00.000Z\n\n#### From: [source](https://www.linkedin.com/company/wordware)\n\n#### Excerpts: \n\nI believe it will lead to an explosion of small product companies in AI software/agent space. Wordware gives you access to all models as soon as they are released. I have built hundreds of apps on Wordware for: (1) researching audience, (2) converting LinkedIn posts to X tweets, (3) summarizing documents, (4) building account plans, etc.\n\nIf you don't know what it is, think of it as the Oscars of the tech community. It would mean a lot to us here at wordware if you would vote for us: vote here: [https://lnkd.in/dQ4JHrzD](https://lnkd.in/dQ4JHrzD?trk=organization_guest_main-feed-card-text)\n\nfor decades, coding was the only way to create in our digital world. but AI is changing everything - it thinks in beautiful shades of grey, not just 1s and 0s. with this shift, we saw an opportunity to reimagine who gets to build.\n\n\n## [Wordware: bringing structure and joy to human-AI ...](https://www.ycombinator.com/companies/wordware)\n#### Published at 2024-08-02T14:15:10.000Z\n\n#### From: [source](https://www.ycombinator.com/companies/wordware)\n\n#### Excerpts: \n\n2\\. At its heart is a new programming language that merges plain English with concepts like loops, conditional statements, and function calling. 3\\.\n\nAt its heart is a new programming language that merges plain English with concepts like loops, conditional statements, and function calling. 3\\. We also support forking, API deployment and sharing as a hosted app.\n\nMost of our clients are cross-functional teams, including less technical members, who need to collaborate with engineers on LLM applications, such as assessing prompt outputs, and care about the speed of iterations.\n\n\n## [Smart School Lunch Software (POS) - For K-12 ...](https://www.wordwareinc.com/school-lunch-software/)\n#### Published at 2019-01-01T00:00:00.000Z\n\n#### From: [source](https://www.wordwareinc.com/school-lunch-software/)\n\n#### Excerpts: \n\n A \u201cBest in Class\u201d system with the lowest audit and failure rate of any system on the market since 1986. Allows individuals to be grouped by family household into a single shared account, simplifying account management to save time, reduce errors and reduce the school system\u2019s administrative workload by 80 percent for a family of five. \n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "generation",
+      "state": "start",
+      "id": "3100475f-4cf0-4d58-bbef-2ddb354b06fc",
+      "label": "researchRCompany",
+      "isStructured": false
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "##"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Wordware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI Overview"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "\n\n**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Company Name"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":** Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "  \n**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "URL:**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " [https"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "://app"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".wordware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".ai/l"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "p]("
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "https://"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "app.word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware.ai"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "/lp"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ")  \n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**Description"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":** Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " is an"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " innovative Integrated"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Development Environment"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " (IDE"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ") that"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " empowers"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " users to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " build complex"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI applications"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " using natural"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " language programming"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ". This"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " platform combines"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the power"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of software"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " with the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " simplicity of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " natural language"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ", allowing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " both technical"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and non"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-technical"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " users to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " develop AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " solutions.\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "### Key"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Features and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Benefits\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "- **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Natural Language"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Programming**:"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Users can"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " create AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " applications using"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " plain English"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ", eliminating"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the need"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for traditional"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " coding skills"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "[5].\n-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **No"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-Code"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI Development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**: Enables"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " anyone to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " build AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " solutions without"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " requiring extensive"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " programming knowledge"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "[5].\n-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **Coll"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "aborative"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI IDE"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**: Designed"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to facilitate"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " cross-functional"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " team collaboration"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " in real"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-time[5].\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "- **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Multim"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "odal AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Integration**:"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Supports the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " integration of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " text,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " images,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " audio,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and video"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " into AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " workflows[5].\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "- **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Prebuilt"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI Tools"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and Templates"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**: Offers"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " ready-to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-use components"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for tasks"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " like speech"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " synthesis,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " search,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " RAG"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " (Ret"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "rieval"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-Augmented"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Generation),"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " image generation"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ", and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " web scraping"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "[1][2].\n-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **One"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-Click"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " API Deployment"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**: Simpl"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ifies the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " deployment process"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ", ensuring"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " rapid setup"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and scalability"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "[1][4].\n-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **Model"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Switching"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**: Automatically"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " switches between"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " different Large"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Language Model"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " (LL"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "M)"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " providers to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " maintain smooth"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " operation if"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " an API"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " falt"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ers or"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " reaches rate"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " limits[2].\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "### Market"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Position and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Growth Potential"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "\n\nWord"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " is positioned"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to capitalize"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " on the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " growing demand"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for accessible"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " tools."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " By empowering"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " non-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "technical users"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and speeding"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " up the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " development process"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for technical"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " teams,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Wordware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " has the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " potential to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " democratize"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI creation"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and enhance"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " productivity across"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " various industries"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ". The"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " platform's"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " ability to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " support multiple"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " LLM"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " providers and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " its focus"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " on collaboration"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " make it"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " an attractive"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " option for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " businesses looking"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to integrate"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI into"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " their operations"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " efficiently.\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "### Funding"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and Partners"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "hips\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "As of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the latest"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " information,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Wordware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " has been"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " part of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the Y"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Combin"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ator startup"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " accelerator program"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ", indicating"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " potential for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " growth and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " support from"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " prominent venture"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " capital networks"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "[3].\n\n###"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Decision Points"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for Venture"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Capital Partners"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "\n\n1"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ". **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Market Opportunity"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**: The"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " growing need"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for accessible"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI tools"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " presents a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " significant market"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " opportunity for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Wordware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI.\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "2."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **Compet"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "itive Advantage"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**: The"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " platform's"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " use of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " natural language"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " programming and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " its ability"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to automatically"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " switch between"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " LLM"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " providers offer"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a competitive"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " edge.\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "3."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **G"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "rowth Potential"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**: With"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " its user"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-friendly interface"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and collaborative"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " features,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Wordware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI has"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " strong potential"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for adoption"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " across various"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " sectors.\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "4."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **In"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "novation**:"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " The integration"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " development with"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " natural language"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " could lead"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " paradigm shift"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " in how"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI is"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " developed and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " deployed.\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Overall,"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Wordware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI offers"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a unique"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " approach to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " that could"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " revolutionize"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the industry"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " by making"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI more"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " accessible and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " collaborative."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " This presents"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a compelling"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " investment opportunity"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for venture"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " capital partners"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " interested in"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " software development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " innovation."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "generation",
+      "state": "done",
+      "id": "3100475f-4cf0-4d58-bbef-2ddb354b06fc",
+      "label": "researchRCompany",
+      "isStructured": false
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "generation",
+      "state": "start",
+      "id": "5c7ec5d2-a563-419f-9f57-96978f204c51",
+      "label": "finalresearchCompany",
+      "isStructured": false
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Overview"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Company"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Name"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "  \n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "URL"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " ["
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "https"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "://"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "app"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".ai"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "/l"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "p"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "]("
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "https"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "://"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "app"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".ai"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "/l"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "p"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ")"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "  \n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Description"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " is"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " an"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " innovative"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " platform"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " that"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " functions"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " as"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " an"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Integrated"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Environment"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " ("
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "IDE"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "),"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " enabling"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " users"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " build"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " complex"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " applications"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " using"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " natural"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " language"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " programming"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " This"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " approach"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " combines"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " power"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " software"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " with"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " simplicity"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " natural"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " language"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " allowing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " both"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " technical"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " non"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "technical"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " users"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " develop"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " solutions"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "###"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Key"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Features"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Benefits"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Natural"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Language"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Programming"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Users"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " can"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " create"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " applications"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " using"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " plain"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " English"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " eliminating"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " need"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " traditional"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " coding"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " skills"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "No"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-Code"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Facilit"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ates"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " creation"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " solutions"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " without"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " requiring"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " extensive"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " programming"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " knowledge"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Collabor"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ative"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " IDE"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Designed"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " support"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " real"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-time"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " collaboration"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " among"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " cross"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-functional"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " teams"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Mult"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "im"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "odal"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Integration"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Supports"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " integration"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " text"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " images"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " audio"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " video"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " into"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " workflows"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Pre"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "built"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Tools"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Templates"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Offers"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " ready"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-use"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " components"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " tasks"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " such"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " as"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " speech"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " synthesis"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " search"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " R"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "AG"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " ("
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Retr"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ieval"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-Aug"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "mented"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Generation"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "),"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " image"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " generation"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " web"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " scraping"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "One"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Click"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " API"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Deployment"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Simpl"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ifies"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " deployment"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " processes"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " ensuring"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " rapid"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " setup"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " scalability"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Model"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Switching"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Automatically"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " switches"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " between"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " different"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Large"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Language"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Model"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " ("
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "LL"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "M"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ")"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " providers"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " maintain"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " smooth"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " operation"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " if"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " an"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " API"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " fal"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ters"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " or"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " reaches"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " rate"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " limits"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "###"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Market"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Position"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Growth"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Potential"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " is"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " well"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-position"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ed"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " capitalize"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " on"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " increasing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " demand"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " accessible"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " tools"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " By"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " empowering"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " non"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "technical"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " users"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " accelerating"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " process"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " technical"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " teams"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " has"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " potential"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " democrat"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ize"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " creation"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " enhance"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " productivity"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " across"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " various"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " industries"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Its"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " ability"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " support"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " multiple"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " L"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "LM"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " providers"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " focus"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " on"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " collaboration"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " makes"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " it"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " an"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " attractive"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " option"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " businesses"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " looking"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " efficiently"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " integrate"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " into"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " their"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " operations"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "###"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Funding"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Partnerships"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " has"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " participated"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " in"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Y"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Com"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "bin"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ator"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " startup"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " accelerator"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " program"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " indicating"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " potential"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " growth"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " support"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " from"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " prominent"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " venture"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " capital"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " networks"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "###"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Decision"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Points"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Venture"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Capital"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Partners"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "1"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Market"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Opportunity"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " The"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " growing"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " need"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " accessible"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " tools"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " presents"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " significant"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " market"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " opportunity"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "2"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Competitive"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Advantage"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " The"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " platform"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "'s"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " use"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " natural"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " language"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " programming"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " its"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " ability"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " automatically"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " switch"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " between"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " L"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "LM"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " providers"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " provide"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " competitive"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " edge"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "3"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Growth"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Potential"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " With"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " its"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " user"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "-friendly"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " interface"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " collaborative"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " features"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " has"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " strong"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " potential"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " adoption"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " across"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " various"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " sectors"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "4"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " **"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Innovation"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ":**"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " The"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " integration"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " of"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " with"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " natural"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " language"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " could"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " lead"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " to"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " paradigm"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " shift"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " in"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " how"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " is"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " developed"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " deployed"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ".\n\n"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "Overall"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " Word"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ware"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " presents"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " compelling"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " investment"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " opportunity"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " for"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " venture"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " capital"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " partners"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " interested"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " in"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " software"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " development"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " innovation"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": ","
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " offering"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " unique"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " approach"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " that"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " could"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " revolution"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "ize"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " the"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " industry"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " by"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " making"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " AI"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " more"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " accessible"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " and"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": " collaborative"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "chunk",
+      "value": "."
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "generation",
+      "state": "done",
+      "id": "5c7ec5d2-a563-419f-9f57-96978f204c51",
+      "label": "finalresearchCompany",
+      "isStructured": false
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "prompt",
+      "path": "Company Research.Company Research",
+      "state": "complete",
+      "output": {
+        "0476a0ff-80c8-4c4f-ae3c-71ab771e933d": {
+          "output": "## [Wordware | Bringing structure and joy to human -AI collaboration](https://www.wordware.ai/)\n#### Published at 2024-01-01T00:00:00.000Z\n\n#### From: [source](https://www.wordware.ai/)\n\n#### Excerpts: \n\nIf an API falters or rate-limits, we'll auto-switch to keep things running smoothly. ## All your AI, in one API. Build something wonderful using your expertise and leave the orchestration headaches to us.\n\nBreak into code if we don't have the right integration. Turing-complete by default. [Notion like editor.\n\n### Model switching\n\nModel APIs aren't always reliable. If an API falters or rate-limits, we'll auto-switch to keep things running smoothly. ## All your AI, in one API.\n\n\n## [Wordware](https://www.wordwareinc.com/)\n#### Published at 2019-01-01T00:00:00.000Z\n\n#### From: [source](https://www.wordwareinc.com/)\n\n#### Excerpts: \n\nMy staff and I use the product for a wide variety of daily needs and like how it is customized to fit the needs of our district. Wordware also provides fast, friendly customer service. Immediate help is available simply by picking up the phone or submitting a work ticket.\n\n \"Wordware is a user-friendly school foodservice software system! My staff and I use the product for a wide variety of daily needs and like how it is customized to fit the needs of our district. Wordware also provides fast, friendly customer service.\n\nWordware also provides fast, friendly customer service. Immediate help is available simply by picking up the phone or submitting a work ticket. \" \n\n\n## [wordware (YC S24)](https://www.linkedin.com/company/wordware)\n#### Published at 2024-12-21T00:00:00.000Z\n\n#### From: [source](https://www.linkedin.com/company/wordware)\n\n#### Excerpts: \n\nI believe it will lead to an explosion of small product companies in AI software/agent space. Wordware gives you access to all models as soon as they are released. I have built hundreds of apps on Wordware for: (1) researching audience, (2) converting LinkedIn posts to X tweets, (3) summarizing documents, (4) building account plans, etc.\n\nIf you don't know what it is, think of it as the Oscars of the tech community. It would mean a lot to us here at wordware if you would vote for us: vote here: [https://lnkd.in/dQ4JHrzD](https://lnkd.in/dQ4JHrzD?trk=organization_guest_main-feed-card-text)\n\nfor decades, coding was the only way to create in our digital world. but AI is changing everything - it thinks in beautiful shades of grey, not just 1s and 0s. with this shift, we saw an opportunity to reimagine who gets to build.\n\n\n## [Wordware: bringing structure and joy to human-AI ...](https://www.ycombinator.com/companies/wordware)\n#### Published at 2024-08-02T14:15:10.000Z\n\n#### From: [source](https://www.ycombinator.com/companies/wordware)\n\n#### Excerpts: \n\n2\\. At its heart is a new programming language that merges plain English with concepts like loops, conditional statements, and function calling. 3\\.\n\nAt its heart is a new programming language that merges plain English with concepts like loops, conditional statements, and function calling. 3\\. We also support forking, API deployment and sharing as a hosted app.\n\nMost of our clients are cross-functional teams, including less technical members, who need to collaborate with engineers on LLM applications, such as assessing prompt outputs, and care about the speed of iterations.\n\n\n## [Smart School Lunch Software (POS) - For K-12 ...](https://www.wordwareinc.com/school-lunch-software/)\n#### Published at 2019-01-01T00:00:00.000Z\n\n#### From: [source](https://www.wordwareinc.com/school-lunch-software/)\n\n#### Excerpts: \n\n A \u201cBest in Class\u201d system with the lowest audit and failure rate of any system on the market since 1986. Allows individuals to be grouped by family household into a single shared account, simplifying account management to save time, reduce errors and reduce the school system\u2019s administrative workload by 80 percent for a family of five. \n"
+        },
+        "3100475f-4cf0-4d58-bbef-2ddb354b06fc": "## Wordware AI Overview\n\n**Company Name:** Wordware AI  \n**URL:** [https://app.wordware.ai/lp](https://app.wordware.ai/lp)  \n**Description:** Wordware AI is an innovative Integrated Development Environment (IDE) that empowers users to build complex AI applications using natural language programming. This platform combines the power of software with the simplicity of natural language, allowing both technical and non-technical users to develop AI solutions.\n\n### Key Features and Benefits\n\n- **Natural Language Programming**: Users can create AI applications using plain English, eliminating the need for traditional coding skills[5].\n- **No-Code AI Development**: Enables anyone to build AI solutions without requiring extensive programming knowledge[5].\n- **Collaborative AI IDE**: Designed to facilitate cross-functional team collaboration in real-time[5].\n- **Multimodal AI Integration**: Supports the integration of text, images, audio, and video into AI workflows[5].\n- **Prebuilt AI Tools and Templates**: Offers ready-to-use components for tasks like speech synthesis, search, RAG (Retrieval-Augmented Generation), image generation, and web scraping[1][2].\n- **One-Click API Deployment**: Simplifies the deployment process, ensuring rapid setup and scalability[1][4].\n- **Model Switching**: Automatically switches between different Large Language Model (LLM) providers to maintain smooth operation if an API falters or reaches rate limits[2].\n\n### Market Position and Growth Potential\n\nWordware AI is positioned to capitalize on the growing demand for accessible AI development tools. By empowering non-technical users and speeding up the development process for technical teams, Wordware has the potential to democratize AI creation and enhance productivity across various industries. The platform's ability to support multiple LLM providers and its focus on collaboration make it an attractive option for businesses looking to integrate AI into their operations efficiently.\n\n### Funding and Partnerships\n\nAs of the latest information, Wordware has been part of the Y Combinator startup accelerator program, indicating potential for growth and support from prominent venture capital networks[3].\n\n### Decision Points for Venture Capital Partners\n\n1. **Market Opportunity**: The growing need for accessible AI tools presents a significant market opportunity for Wordware AI.\n2. **Competitive Advantage**: The platform's use of natural language programming and its ability to automatically switch between LLM providers offer a competitive edge.\n3. **Growth Potential**: With its user-friendly interface and collaborative features, Wordware AI has strong potential for adoption across various sectors.\n4. **Innovation**: The integration of AI development with natural language could lead to a paradigm shift in how AI is developed and deployed.\n\nOverall, Wordware AI offers a unique approach to AI development that could revolutionize the industry by making AI more accessible and collaborative. This presents a compelling investment opportunity for venture capital partners interested in AI and software development innovation.",
+        "5c7ec5d2-a563-419f-9f57-96978f204c51": "**Wordware AI Overview**\n\n**Company Name:** Wordware AI  \n**URL:** [https://app.wordware.ai/lp](https://app.wordware.ai/lp)  \n**Description:** Wordware AI is an innovative platform that functions as an Integrated Development Environment (IDE), enabling users to build complex AI applications using natural language programming. This approach combines the power of software development with the simplicity of natural language, allowing both technical and non-technical users to develop AI solutions.\n\n### Key Features and Benefits\n\n- **Natural Language Programming:** Users can create AI applications using plain English, eliminating the need for traditional coding skills.\n- **No-Code AI Development:** Facilitates the creation of AI solutions without requiring extensive programming knowledge.\n- **Collaborative AI IDE:** Designed to support real-time collaboration among cross-functional teams.\n- **Multimodal AI Integration:** Supports the integration of text, images, audio, and video into AI workflows.\n- **Prebuilt AI Tools and Templates:** Offers ready-to-use components for tasks such as speech synthesis, search, RAG (Retrieval-Augmented Generation), image generation, and web scraping.\n- **One-Click API Deployment:** Simplifies deployment processes, ensuring rapid setup and scalability.\n- **Model Switching:** Automatically switches between different Large Language Model (LLM) providers to maintain smooth operation if an API falters or reaches rate limits.\n\n### Market Position and Growth Potential\n\nWordware AI is well-positioned to capitalize on the increasing demand for accessible AI development tools. By empowering non-technical users and accelerating the development process for technical teams, Wordware has the potential to democratize AI creation and enhance productivity across various industries. Its ability to support multiple LLM providers and focus on collaboration makes it an attractive option for businesses looking to efficiently integrate AI into their operations.\n\n### Funding and Partnerships\n\nWordware has participated in the Y Combinator startup accelerator program, indicating potential for growth and support from prominent venture capital networks.\n\n### Decision Points for Venture Capital Partners\n\n1. **Market Opportunity:** The growing need for accessible AI tools presents a significant market opportunity for Wordware AI.\n2. **Competitive Advantage:** The platform's use of natural language programming and its ability to automatically switch between LLM providers provide a competitive edge.\n3. **Growth Potential:** With its user-friendly interface and collaborative features, Wordware AI has strong potential for adoption across various sectors.\n4. **Innovation:** The integration of AI development with natural language could lead to a paradigm shift in how AI is developed and deployed.\n\nOverall, Wordware AI presents a compelling investment opportunity for venture capital partners interested in AI and software development innovation, offering a unique approach that could revolutionize the industry by making AI more accessible and collaborative.",
+        "Web search with Exa": {
+          "output": "## [Wordware | Bringing structure and joy to human -AI collaboration](https://www.wordware.ai/)\n#### Published at 2024-01-01T00:00:00.000Z\n\n#### From: [source](https://www.wordware.ai/)\n\n#### Excerpts: \n\nIf an API falters or rate-limits, we'll auto-switch to keep things running smoothly. ## All your AI, in one API. Build something wonderful using your expertise and leave the orchestration headaches to us.\n\nBreak into code if we don't have the right integration. Turing-complete by default. [Notion like editor.\n\n### Model switching\n\nModel APIs aren't always reliable. If an API falters or rate-limits, we'll auto-switch to keep things running smoothly. ## All your AI, in one API.\n\n\n## [Wordware](https://www.wordwareinc.com/)\n#### Published at 2019-01-01T00:00:00.000Z\n\n#### From: [source](https://www.wordwareinc.com/)\n\n#### Excerpts: \n\nMy staff and I use the product for a wide variety of daily needs and like how it is customized to fit the needs of our district. Wordware also provides fast, friendly customer service. Immediate help is available simply by picking up the phone or submitting a work ticket.\n\n \"Wordware is a user-friendly school foodservice software system! My staff and I use the product for a wide variety of daily needs and like how it is customized to fit the needs of our district. Wordware also provides fast, friendly customer service.\n\nWordware also provides fast, friendly customer service. Immediate help is available simply by picking up the phone or submitting a work ticket. \" \n\n\n## [wordware (YC S24)](https://www.linkedin.com/company/wordware)\n#### Published at 2024-12-21T00:00:00.000Z\n\n#### From: [source](https://www.linkedin.com/company/wordware)\n\n#### Excerpts: \n\nI believe it will lead to an explosion of small product companies in AI software/agent space. Wordware gives you access to all models as soon as they are released. I have built hundreds of apps on Wordware for: (1) researching audience, (2) converting LinkedIn posts to X tweets, (3) summarizing documents, (4) building account plans, etc.\n\nIf you don't know what it is, think of it as the Oscars of the tech community. It would mean a lot to us here at wordware if you would vote for us: vote here: [https://lnkd.in/dQ4JHrzD](https://lnkd.in/dQ4JHrzD?trk=organization_guest_main-feed-card-text)\n\nfor decades, coding was the only way to create in our digital world. but AI is changing everything - it thinks in beautiful shades of grey, not just 1s and 0s. with this shift, we saw an opportunity to reimagine who gets to build.\n\n\n## [Wordware: bringing structure and joy to human-AI ...](https://www.ycombinator.com/companies/wordware)\n#### Published at 2024-08-02T14:15:10.000Z\n\n#### From: [source](https://www.ycombinator.com/companies/wordware)\n\n#### Excerpts: \n\n2\\. At its heart is a new programming language that merges plain English with concepts like loops, conditional statements, and function calling. 3\\.\n\nAt its heart is a new programming language that merges plain English with concepts like loops, conditional statements, and function calling. 3\\. We also support forking, API deployment and sharing as a hosted app.\n\nMost of our clients are cross-functional teams, including less technical members, who need to collaborate with engineers on LLM applications, such as assessing prompt outputs, and care about the speed of iterations.\n\n\n## [Smart School Lunch Software (POS) - For K-12 ...](https://www.wordwareinc.com/school-lunch-software/)\n#### Published at 2019-01-01T00:00:00.000Z\n\n#### From: [source](https://www.wordwareinc.com/school-lunch-software/)\n\n#### Excerpts: \n\n A \u201cBest in Class\u201d system with the lowest audit and failure rate of any system on the market since 1986. Allows individuals to be grouped by family household into a single shared account, simplifying account management to save time, reduce errors and reduce the school system\u2019s administrative workload by 80 percent for a family of five. \n"
+        },
+        "researchRCompany": "## Wordware AI Overview\n\n**Company Name:** Wordware AI  \n**URL:** [https://app.wordware.ai/lp](https://app.wordware.ai/lp)  \n**Description:** Wordware AI is an innovative Integrated Development Environment (IDE) that empowers users to build complex AI applications using natural language programming. This platform combines the power of software with the simplicity of natural language, allowing both technical and non-technical users to develop AI solutions.\n\n### Key Features and Benefits\n\n- **Natural Language Programming**: Users can create AI applications using plain English, eliminating the need for traditional coding skills[5].\n- **No-Code AI Development**: Enables anyone to build AI solutions without requiring extensive programming knowledge[5].\n- **Collaborative AI IDE**: Designed to facilitate cross-functional team collaboration in real-time[5].\n- **Multimodal AI Integration**: Supports the integration of text, images, audio, and video into AI workflows[5].\n- **Prebuilt AI Tools and Templates**: Offers ready-to-use components for tasks like speech synthesis, search, RAG (Retrieval-Augmented Generation), image generation, and web scraping[1][2].\n- **One-Click API Deployment**: Simplifies the deployment process, ensuring rapid setup and scalability[1][4].\n- **Model Switching**: Automatically switches between different Large Language Model (LLM) providers to maintain smooth operation if an API falters or reaches rate limits[2].\n\n### Market Position and Growth Potential\n\nWordware AI is positioned to capitalize on the growing demand for accessible AI development tools. By empowering non-technical users and speeding up the development process for technical teams, Wordware has the potential to democratize AI creation and enhance productivity across various industries. The platform's ability to support multiple LLM providers and its focus on collaboration make it an attractive option for businesses looking to integrate AI into their operations efficiently.\n\n### Funding and Partnerships\n\nAs of the latest information, Wordware has been part of the Y Combinator startup accelerator program, indicating potential for growth and support from prominent venture capital networks[3].\n\n### Decision Points for Venture Capital Partners\n\n1. **Market Opportunity**: The growing need for accessible AI tools presents a significant market opportunity for Wordware AI.\n2. **Competitive Advantage**: The platform's use of natural language programming and its ability to automatically switch between LLM providers offer a competitive edge.\n3. **Growth Potential**: With its user-friendly interface and collaborative features, Wordware AI has strong potential for adoption across various sectors.\n4. **Innovation**: The integration of AI development with natural language could lead to a paradigm shift in how AI is developed and deployed.\n\nOverall, Wordware AI offers a unique approach to AI development that could revolutionize the industry by making AI more accessible and collaborative. This presents a compelling investment opportunity for venture capital partners interested in AI and software development innovation.",
+        "finalresearchCompany": "**Wordware AI Overview**\n\n**Company Name:** Wordware AI  \n**URL:** [https://app.wordware.ai/lp](https://app.wordware.ai/lp)  \n**Description:** Wordware AI is an innovative platform that functions as an Integrated Development Environment (IDE), enabling users to build complex AI applications using natural language programming. This approach combines the power of software development with the simplicity of natural language, allowing both technical and non-technical users to develop AI solutions.\n\n### Key Features and Benefits\n\n- **Natural Language Programming:** Users can create AI applications using plain English, eliminating the need for traditional coding skills.\n- **No-Code AI Development:** Facilitates the creation of AI solutions without requiring extensive programming knowledge.\n- **Collaborative AI IDE:** Designed to support real-time collaboration among cross-functional teams.\n- **Multimodal AI Integration:** Supports the integration of text, images, audio, and video into AI workflows.\n- **Prebuilt AI Tools and Templates:** Offers ready-to-use components for tasks such as speech synthesis, search, RAG (Retrieval-Augmented Generation), image generation, and web scraping.\n- **One-Click API Deployment:** Simplifies deployment processes, ensuring rapid setup and scalability.\n- **Model Switching:** Automatically switches between different Large Language Model (LLM) providers to maintain smooth operation if an API falters or reaches rate limits.\n\n### Market Position and Growth Potential\n\nWordware AI is well-positioned to capitalize on the increasing demand for accessible AI development tools. By empowering non-technical users and accelerating the development process for technical teams, Wordware has the potential to democratize AI creation and enhance productivity across various industries. Its ability to support multiple LLM providers and focus on collaboration makes it an attractive option for businesses looking to efficiently integrate AI into their operations.\n\n### Funding and Partnerships\n\nWordware has participated in the Y Combinator startup accelerator program, indicating potential for growth and support from prominent venture capital networks.\n\n### Decision Points for Venture Capital Partners\n\n1. **Market Opportunity:** The growing need for accessible AI tools presents a significant market opportunity for Wordware AI.\n2. **Competitive Advantage:** The platform's use of natural language programming and its ability to automatically switch between LLM providers provide a competitive edge.\n3. **Growth Potential:** With its user-friendly interface and collaborative features, Wordware AI has strong potential for adoption across various sectors.\n4. **Innovation:** The integration of AI development with natural language could lead to a paradigm shift in how AI is developed and deployed.\n\nOverall, Wordware AI presents a compelling investment opportunity for venture capital partners interested in AI and software development innovation, offering a unique approach that could revolutionize the industry by making AI more accessible and collaborative."
+      },
+      "id": "ba1f55e2-a220-48bf-a512-0bd70771c78a"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "prompt",
+      "state": "start",
+      "path": "Competition research.Competition research",
+      "id": "3248e9af-ccb7-41e9-9cf2-d646a0a29557"
+    }
+  },
+  {
+    "type": "chunk",
+    "value": {
+      "type": "prompt",
+      "path": "",
+      "state": "error",
+      "output": "ExecutionError: Failed to do similarity search with exa",
+      "id": "ROOT"
+    }
+  }
+]

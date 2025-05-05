@@ -59,25 +59,181 @@ export class MyMCP extends McpAgent {
 		);
 
 		this.server.tool(
-			"research_founder",
+			"research founder",
 			{
-				topic: z.string().describe("The industry or technology area to find founders in"),
-				limit: z.number().optional().default(5).describe("Maximum number of founders to return")
+				full_name: z.string().describe("The full name of the founder"),
+				company: z.string().describe("The company that the founder works at"),
+				website: z.string().describe("Url of the company that the person works")
 			},
-			async ({topic, limit}) => {
+			async ({full_name, company, website}) => {
 				try {
 					// Call your API endpoint to get founders data
-					const response = await fetch(`${this.API_URL}founders/search`, {
+					const response = await fetch(`${this.API_URL}research_founders`, {
 						method: 'POST',
 						headers: {
 							'Content-Type': 'application/json'
 						},
-						body: JSON.stringify({ topic, limit })
+						body: JSON.stringify({ full_name, company, website })
 					});
-				
-				return {
-					content: [{ type: "text", text: "done" }]
-				};
+
+					if (!response.ok) {
+						throw new Error(`API error: ${response.status}`);
+					}
+					
+					const information: { message: string } = await response.json();
+
+					return {
+						content: [{ type: "text", text: information.message }]
+					};
+				} catch (error) {
+					return {
+						content: [{ 
+							type: "text", 
+							text: `Error finding founders. Please check the API connection.` 
+						}]
+					}
+				}
+			}
+		)
+
+		this.server.tool(
+			"personalized questions",
+			{
+				full_name: z.string().describe("The full name of the founder"),
+				company: z.string().describe("The company that the founder works at"),
+				competiton: z.string().describe("This is the competition you are analyzing")
+			},
+			async ({full_name, company, competiton}) => {
+				try {
+					// Call your API endpoint to get founders data
+					const response = await fetch(`${this.API_URL}personalized_questions`, {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json'
+						},
+						body: JSON.stringify({ full_name, company, competiton })
+					});
+
+					if (!response.ok) {
+						throw new Error(`API error: ${response.status}`);
+					}
+					
+					const information: { message: string } = await response.json();
+
+					return {
+						content: [{ type: "text", text: information.message }]
+					};
+				} catch (error) {
+					return {
+						content: [{ 
+							type: "text", 
+							text: `Error finding founders. Please check the API connection.` 
+						}]
+					}
+				}
+			}
+		)
+
+		this.server.tool(
+			"personalized research",
+			{
+				full_name: z.string().describe("The full name of the founder"),
+				company: z.string().describe("The company that the founder works at"),
+				competiton: z.string().describe("This is the competition you are analyzing")
+			},
+			async ({full_name, company, competiton}) => {
+				try {
+					// Call your API endpoint to get founders data
+					const response = await fetch(`${this.API_URL}personalized_questions`, {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json'
+						},
+						body: JSON.stringify({ full_name, company, competiton })
+					});
+
+					if (!response.ok) {
+						throw new Error(`API error: ${response.status}`);
+					}
+					
+					const information: { message: string } = await response.json();
+
+					return {
+						content: [{ type: "text", text: information.message }]
+					};
+				} catch (error) {
+					return {
+						content: [{ 
+							type: "text", 
+							text: `Error finding founders. Please check the API connection.` 
+						}]
+					}
+				}
+			}
+		)
+
+		this.server.tool(
+			"enriching leaders",
+			{
+				full_name: z.string().describe("The full name of the founder"),
+				company: z.string().describe("The company that the founder works at"),
+				website: z.string().describe("Url of the company that the person works")
+			},
+			async ({full_name, company, website}) => {
+				try {
+					// Call your API endpoint to get founders data
+					const response = await fetch(`${this.API_URL}enriching_leaders`, {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json'
+						},
+						body: JSON.stringify({ full_name, company, website })
+					});
+
+					if (!response.ok) {
+						throw new Error(`API error: ${response.status}`);
+					}
+					
+					const information: { message: string } = await response.json();
+					return {
+						content: [{ type: "text", text: information.message}]
+					};
+				} catch (error) {
+					return {
+						content: [{ 
+							type: "text", 
+							text: `Error finding founders. Please check the API connection.` 
+						}]
+					}
+				}
+			}
+		)
+
+		this.server.tool(
+			"ReAct Agent",
+			{
+				question: z.string().describe("Any question that the user has."),
+
+			},
+			async ({question}) => {
+				try {
+					// Call your API endpoint to get founders data
+					const response = await fetch(`${this.API_URL}react_agent`, {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json'
+						},
+						body: JSON.stringify({ question })
+					});
+
+					if (!response.ok) {
+						throw new Error(`API error: ${response.status}`);
+					}
+					
+					const information: { message: string } = await response.json();
+					return {
+						content: [{ type: "text", text: information.message}]
+					};
 				} catch (error) {
 					return {
 						content: [{ 
